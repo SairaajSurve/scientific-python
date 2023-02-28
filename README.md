@@ -13,3 +13,4 @@
 2. [Skydiving with friction](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/airfriction.ipynb)
 3. [SIR Disease Model](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/disease-model.ipynb)
 4. [Eigenvalues of 1D potential](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/1d-schrodinger.ipynb)
+5. [K-means clustering](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/kmeans.ipynb)
