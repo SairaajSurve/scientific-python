@@ -6,6 +6,8 @@
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
+############################
+.\.venv\Scripts\deactivate
 ```
 
 ## [Python Tutorial](https://youtube.com/playlist?list=PLkdGijFCNuVnGxo-1fSNcdHh5gZc17oRM)

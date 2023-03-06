@@ -1,4 +1,10 @@
+# essential libraries
+ipykernel
+
+# scientific libraries
 numpy
 scipy
 matplotlib
-difflib
+SciencePlots
+sympy
+pandas
