@@ -1,5 +1,13 @@
 # Scietific Python
 
+## Installation
+
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
 ## [Python Tutorial](https://youtube.com/playlist?list=PLkdGijFCNuVnGxo-1fSNcdHh5gZc17oRM)
 
 1. [Numpy](https://github.com/SairaajSurve/scientific-python/tree/main/Numpy)
@@ -14,3 +22,5 @@
 3. [SIR Disease Model](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/disease-model.ipynb)
 4. [Eigenvalues of 1D potential](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/1d-schrodinger.ipynb)
 5. [K-means clustering](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/kmeans.ipynb)
+
+6. [dynamic_entity_clustering](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/dynamic_entity_clustering.ipynb)
