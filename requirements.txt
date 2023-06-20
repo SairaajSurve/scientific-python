@@ -8,3 +8,4 @@ matplotlib
 SciencePlots
 sympy
 pandas
+numba
