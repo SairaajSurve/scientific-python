@@ -24,7 +24,6 @@ pip install -r requirements.txt
 3. [SIR Disease Model](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/disease-model.ipynb)
 4. [Eigenvalues of 1D potential](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/1d-schrodinger.ipynb)
 5. [K-means clustering](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/kmeans.ipynb)
-
 6. [Dynamic Entity Clustering (Distance Matrix)](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/dynamic_entity_clustering.ipynb)
-
 7. [Pendulum Motion](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/pendulum-motion.ipynb)
+8. [Generate waves on a String](https://github.com/SairaajSurve/scientific-python/blob/main/Projects/sound-numba.ipynb)
